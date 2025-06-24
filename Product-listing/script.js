@@ -5,7 +5,7 @@ const products = [
     price: 299,
     rating: 4.5,
     description: "128GB, AMOLED Display, Dual Camera",
-    image: "/images/phone.jpg"
+    image: "../images/phone.jpg"
   },
   {
     name: "Slim Fit Jeans",
@@ -13,7 +13,7 @@ const products = [
     price: 45,
     rating: 3.9,
     description: "Blue denim, stretchable, all sizes available",
-    image: "/images/jeans.jpg"
+    image: "../images/jeans.jpg"
   },
   {
     name: "Gaming Laptop",
@@ -21,7 +21,7 @@ const products = [
     price: 999,
     rating: 4.7,
     description: "16GB RAM, RTX 3060, 512GB SSD",
-    image: "/images/laptop.jpg"
+    image: "../images/laptop.jpg"
   },
   {
     name: "Cotton T-shirt",
@@ -29,7 +29,7 @@ const products = [
     price: 25,
     rating: 4.0,
     description: "Soft cotton, multiple colors",
-    image: "/images/tshirt.jpg"
+    image: "../images/tshirt.jpg"
   },
   {
     name: "JavaScript Guide",
@@ -37,7 +37,7 @@ const products = [
     price: 30,
     rating: 4.2,
     description: "Beginner to Advanced JavaScript concepts",
-    image: "/images/book.png"
+    image: "../images/book.png"
   },
   {
     name: "Wireless Headphones",
@@ -45,7 +45,7 @@ const products = [
     price: 70,
     rating: 4.3,
     description: "Noise cancelling, Bluetooth 5.0",
-    image: "/images/headphones.jpg"
+    image: "../images/headphones.jpg"
   },
   {
     name: "Mystery Novel",
@@ -53,7 +53,7 @@ const products = [
     price: 120,
     rating: 4.8,
     description: "Thrilling plot with unexpected twists",
-    image: "/images/novel.jpg"
+    image: "../images/novel.jpg"
   },
   {
     name: "Winter Jacket",
@@ -61,7 +61,7 @@ const products = [
     price: 85,
     rating: 4.6,
     description: "Waterproof, windproof, warm inner lining",
-    image: "/images/jacket.png"
+    image: "../images/jacket.png"
   },
   {
     name: "Smartwatch X",
@@ -69,7 +69,7 @@ const products = [
     price: 199,
     rating: 4.4,
     description: "Heart-rate monitor, GPS, notifications",
-    image: "/images/smartwatch.png"
+    image: "../images/smartwatch.png"
   },
   {
   name: "Gold-Plated Earrings",
@@ -77,7 +77,7 @@ const products = [
   price: 30,
   rating: 4.4,
   description: "Elegant danglers, perfect for parties and functions",
-  image: "/images/earrings.jpeg"
+  image: "../images/earrings.jpeg"
 },
 {
   name: "Silver Ring",
@@ -85,7 +85,7 @@ const products = [
   price: 22,
   rating: 4.3,
   description: "Minimalist design, sterling silver",
-  image: "/images/ring.png"
+  image: "../images/ring.png"
 },
 {
   name: "Leather Handbag",
@@ -93,7 +93,7 @@ const products = [
   price: 75,
   rating: 4.7,
   description: "Spacious with 3 compartments, premium quality",
-  image: "/images/handbag.png"
+  image: "../images/handbag.png"
 },
 {
   name: "Traditional Bangles",
@@ -101,7 +101,7 @@ const products = [
   price: 40,
   rating: 4.2,
   description: "Set of 12, suits festive occasions",
-  image: "/images/bangles.png"
+  image: "../images/bangles.png"
 },
 {
   name: "Statement Jewelry Set",
@@ -109,7 +109,7 @@ const products = [
   price: 120,
   rating: 4.8,
   description: "Includes necklace, earrings & bracelet",
-  image: "/images/jewelry.png"
+  image: "../images/jewelry.png"
 },
 {
   name: "Running Shoes",
@@ -117,7 +117,7 @@ const products = [
   price: 60,
   rating: 4.5,
   description: "Breathable mesh, ideal for workouts",
-  image: "/images/shoes.png"
+  image: "../images/shoes.png"
 },
 {
   name: "Women’s Footwear",
@@ -125,7 +125,7 @@ const products = [
   price: 45,
   rating: 4.1,
   description: "Comfortable sole, stylish design",
-  image: "/images/footwear.png"
+  image: "../images/footwear.png"
 },
 {
   name: "Matte Lipstick",
@@ -133,7 +133,7 @@ const products = [
   price: 20,
   rating: 4.5,
   description: "Long-lasting matte finish, available in 12 shades",
-  image: "/images/lipstick.png"
+  image: "../images/lipstick.png"
 },
 {
   name: "Compact Powder",
@@ -141,7 +141,7 @@ const products = [
   price: 18,
   rating: 4.2,
   description: "Lightweight, perfect for daily touch-ups",
-  image: "/images/compact.png"
+  image: "../images/compact.png"
 },
 {
   name: "Liquid Foundation",
@@ -149,7 +149,7 @@ const products = [
   price: 25,
   rating: 4.6,
   description: "Full coverage, blends smoothly, SPF 15",
-  image: "/images/foundation.png"
+  image: "../images/foundation.png"
 }
 
 
